@@ -6,5 +6,5 @@ npm run dev < 실행하기
 
 
 git add .
-git commit - m "메세지내용"
+git commit -m "메세지내용"
 git push -u origin main
