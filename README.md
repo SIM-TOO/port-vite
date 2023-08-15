@@ -1,5 +1,6 @@
 # 포트폴리오 사이트 만들기 프로젝트
 
+1. 기본설정하기
 - vite를 설치합니다. `npm create vite@latest`
 - gsap를 설치합니다. `npm install gsap`
 - lenis를 설치합니다. `npm install @studio-freight/lenis`
@@ -11,3 +12,5 @@ export default {
     outDir: "../public",
     },
 };"# port-vite" 
+
+2.
