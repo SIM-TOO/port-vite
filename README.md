@@ -11,6 +11,8 @@ export default {
     build: {
     outDir: "../public",
     },
-};"# port-vite" 
+};"# port-vite"
 
-2. 
+
+
+2. 레아아웃 설계
