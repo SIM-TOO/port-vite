@@ -4,7 +4,7 @@ cd .. < 상위폴더 이동
 npm install < 이동후 부과적인 요소 설치
 npm run dev < 실행하기
 
-
 git add .
 git commit -m "메세지내용"
 git push -u origin main
+
