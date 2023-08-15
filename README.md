@@ -12,7 +12,7 @@ export default {
     outDir: "../public",
     },
 };"# port-vite"
-
+```
 
 
 2. 레아아웃 설계
