@@ -32,8 +32,8 @@
 }
 .intro__text .text {
     font-size: 3vw;
-    line-height: 1;
-    font-weight: 900;
+    line-height: 1.2;
+    font-weight: 700;
     text-transform: uppercase;
     text-decoration: underline;
     text-align: center;
