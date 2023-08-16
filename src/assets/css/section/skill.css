@@ -108,7 +108,7 @@
 }
 
 .skill__item .title {
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-align: center;
     padding: 0.8rem 0;
     font-weight: 700;
@@ -118,7 +118,8 @@
 }
 
 .skill__item .desc {
-    font-size: 1rem;
+    font-size: 1.5rem;
+    text-align: center;
 }
 
 .skill__item .site {
