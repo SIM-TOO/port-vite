@@ -18,6 +18,7 @@
 - INTRO
 - HISTORY
 - PORTFOLIO
+    - gif로 포트폴리오 간략하게 소개
     - github, 동영상 사이트 연결
 - SKILL
 - CONTACT
