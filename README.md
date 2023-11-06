@@ -18,7 +18,7 @@
 - INTRO
 - HISTORY
 - PORTFOLIO
-    - gif로 포트폴리오 간략하게 소개
+    - gif로 포트폴리오 간략하게 소개를 했습니다.
     - github, 동영상 사이트 연결
 - SKILL
 - CONTACT
